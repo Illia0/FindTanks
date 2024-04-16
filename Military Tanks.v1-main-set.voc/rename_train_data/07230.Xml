@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>041e32ded81cdb352fbe7749a132e532_jpg.rf.468167cb1a43245c08616d8c33d2f3ee.jpg</filename>
+	<path>041e32ded81cdb352fbe7749a132e532_jpg.rf.468167cb1a43245c08616d8c33d2f3ee.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Su57</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>12</xmin>
+			<xmax>408</xmax>
+			<ymin>175</ymin>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

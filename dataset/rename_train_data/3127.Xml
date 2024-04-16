@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>309_jpg.rf.109a5934b64b4302aae4cabc8e13e918.jpg</filename>
+	<path>309_jpg.rf.109a5934b64b4302aae4cabc8e13e918.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>13</xmin>
+			<xmax>615</xmax>
+			<ymin>48</ymin>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

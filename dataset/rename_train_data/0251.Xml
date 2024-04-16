@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ArmA-3-Screenshot-2022-07-13-12-46-37-45_png_jpg.rf.239b84c38c85f58213e906299a71843a.jpg</filename>
+	<path>ArmA-3-Screenshot-2022-07-13-12-46-37-45_png_jpg.rf.239b84c38c85f58213e906299a71843a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>266</xmin>
+			<xmax>318</xmax>
+			<ymin>304</ymin>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

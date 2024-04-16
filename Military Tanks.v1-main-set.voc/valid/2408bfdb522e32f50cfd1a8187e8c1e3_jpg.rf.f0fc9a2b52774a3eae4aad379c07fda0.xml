@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2408bfdb522e32f50cfd1a8187e8c1e3_jpg.rf.f0fc9a2b52774a3eae4aad379c07fda0.jpg</filename>
+	<path>2408bfdb522e32f50cfd1a8187e8c1e3_jpg.rf.f0fc9a2b52774a3eae4aad379c07fda0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig31</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>293</xmax>
+			<ymin>185</ymin>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

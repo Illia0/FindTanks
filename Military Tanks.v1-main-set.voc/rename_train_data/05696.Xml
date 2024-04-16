@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>e8c4a11330f9dd6e398fee29d797b57f_jpg.rf.f6882a05c4ac9efda7226ab9a8fad427.jpg</filename>
+	<path>e8c4a11330f9dd6e398fee29d797b57f_jpg.rf.f6882a05c4ac9efda7226ab9a8fad427.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C130</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>128</xmin>
+			<xmax>173</xmax>
+			<ymin>169</ymin>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

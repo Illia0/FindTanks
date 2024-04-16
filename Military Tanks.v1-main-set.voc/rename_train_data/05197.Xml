@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cc05d4177d6dd4879eff32487b564605_jpg.rf.b2d21daa4eef82f7bf9a9d0bf453791b.jpg</filename>
+	<path>cc05d4177d6dd4879eff32487b564605_jpg.rf.b2d21daa4eef82f7bf9a9d0bf453791b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mirage2000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>69</xmin>
+			<xmax>256</xmax>
+			<ymin>165</ymin>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

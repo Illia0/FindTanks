@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>171f8d0c589550a8674104820239a79a_jpg.rf.ff36ec6522f7198a3da44e3bf180eff0.jpg</filename>
+	<path>171f8d0c589550a8674104820239a79a_jpg.rf.ff36ec6522f7198a3da44e3bf180eff0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AG600</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>202</xmin>
+			<xmax>256</xmax>
+			<ymin>145</ymin>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>15021b2cca360618ddaa176ac70cc5b1_jpg.rf.480c1d30b5ca695bb7095a21f702c1ed.jpg</filename>
+	<path>15021b2cca360618ddaa176ac70cc5b1_jpg.rf.480c1d30b5ca695bb7095a21f702c1ed.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EF2000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>404</xmax>
+			<ymin>17</ymin>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>fef2d74b37c5f9950eb495482f849bea_jpg.rf.7332e8f8df79a60f3f38d4935ab05ce5.jpg</filename>
+	<path>fef2d74b37c5f9950eb495482f849bea_jpg.rf.7332e8f8df79a60f3f38d4935ab05ce5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RQ4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>305</xmin>
+			<xmax>412</xmax>
+			<ymin>132</ymin>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

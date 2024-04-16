@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>a17591f8996db47375f648c605faf413_jpg.rf.d817c392101fff48d6b1eb690820882c.jpg</filename>
+	<path>a17591f8996db47375f648c605faf413_jpg.rf.d817c392101fff48d6b1eb690820882c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vulcan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>243</xmin>
+			<xmax>308</xmax>
+			<ymin>81</ymin>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>401dd822d5e1ab8c79072a3a55149bad_jpg.rf.e119adc4b36ae1f66bab065f25a6a867.jpg</filename>
+	<path>401dd822d5e1ab8c79072a3a55149bad_jpg.rf.e119adc4b36ae1f66bab065f25a6a867.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tornado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>33</xmin>
+			<xmax>256</xmax>
+			<ymin>41</ymin>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>31ff6a31dc11d72206a89016dbfe82b7_jpg.rf.cb6117729103e076e114117da9def86c.jpg</filename>
+	<path>31ff6a31dc11d72206a89016dbfe82b7_jpg.rf.cb6117729103e076e114117da9def86c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>XB70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>417</xmax>
+			<ymin>167</ymin>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

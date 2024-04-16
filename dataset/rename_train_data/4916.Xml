@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>airport_176_jpg.rf.d60f43ad43eb0b1d51c5e1bf03d67ebb.jpg</filename>
+	<path>airport_176_jpg.rf.d60f43ad43eb0b1d51c5e1bf03d67ebb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

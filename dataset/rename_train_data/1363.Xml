@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>tank-military-equipment-top-view-drone-footage_375001-2478_jpeg_jpg.rf.d16e0c26099a933e593dcca373d7acfa.jpg</filename>
+	<path>tank-military-equipment-top-view-drone-footage_375001-2478_jpeg_jpg.rf.d16e0c26099a933e593dcca373d7acfa.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>592</xmax>
+			<ymin>147</ymin>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

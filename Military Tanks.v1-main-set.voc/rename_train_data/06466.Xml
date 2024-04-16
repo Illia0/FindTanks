@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>244658d2d866079cff2d1dec8a2ff0b3_jpg.rf.c13fdf0760daa1719983da8edb97fc5f.jpg</filename>
+	<path>244658d2d866079cff2d1dec8a2ff0b3_jpg.rf.c13fdf0760daa1719983da8edb97fc5f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MQ9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>161</xmin>
+			<xmax>266</xmax>
+			<ymin>200</ymin>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

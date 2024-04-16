@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>c897522b1faae1f20043ccaf8064aafa_jpg.rf.709ec8c210a328de5f39bc1b8c544848.jpg</filename>
+	<path>c897522b1faae1f20043ccaf8064aafa_jpg.rf.709ec8c210a328de5f39bc1b8c544848.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A400M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>138</xmin>
+			<xmax>356</xmax>
+			<ymin>65</ymin>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

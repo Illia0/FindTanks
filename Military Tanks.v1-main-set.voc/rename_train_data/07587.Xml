@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>e27a87a66150a4c0ab2a9ef5675dda5d_jpg.rf.6b2806e236c6ff26aa5fb529ca5a5b5c.jpg</filename>
+	<path>e27a87a66150a4c0ab2a9ef5675dda5d_jpg.rf.6b2806e236c6ff26aa5fb529ca5a5b5c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>YF23</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>67</xmin>
+			<xmax>301</xmax>
+			<ymin>163</ymin>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

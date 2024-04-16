@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>e22b538ae2c608c938a4244f2359927c_jpg.rf.daac942efdc2bf8fa8b1c7051e970097.jpg</filename>
+	<path>e22b538ae2c608c938a4244f2359927c_jpg.rf.daac942efdc2bf8fa8b1c7051e970097.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SR71</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>13</xmin>
+			<xmax>400</xmax>
+			<ymin>26</ymin>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

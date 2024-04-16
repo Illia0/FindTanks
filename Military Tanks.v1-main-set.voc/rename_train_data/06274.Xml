@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>dd2eefe4a0c4182ce886f197b7d757ef_jpg.rf.4000cde8fd01a17436a63b571f71c193.jpg</filename>
+	<path>dd2eefe4a0c4182ce886f197b7d757ef_jpg.rf.4000cde8fd01a17436a63b571f71c193.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Be200</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>184</xmin>
+			<xmax>216</xmax>
+			<ymin>173</ymin>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

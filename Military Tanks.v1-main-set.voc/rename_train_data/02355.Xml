@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>fab97104869af84863cf90d598700dba_jpg.rf.aaae4cd5042a81767e6418ee3a3f4d42.jpg</filename>
+	<path>fab97104869af84863cf90d598700dba_jpg.rf.aaae4cd5042a81767e6418ee3a3f4d42.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C17</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>68</xmin>
+			<xmax>362</xmax>
+			<ymin>104</ymin>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>c0aed3de402fe7ef95b8e8fa8f09c893_jpg.rf.e7b5e1e6d56df4c9bc885e4671919cda.jpg</filename>
+	<path>c0aed3de402fe7ef95b8e8fa8f09c893_jpg.rf.e7b5e1e6d56df4c9bc885e4671919cda.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AV8B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>26</xmin>
+			<xmax>417</xmax>
+			<ymin>21</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>b62729b4336cc611bfce6e47468e1fab_jpg.rf.57adbd4e628ba882a4cd4b8b71809150.jpg</filename>
+	<path>b62729b4336cc611bfce6e47468e1fab_jpg.rf.57adbd4e628ba882a4cd4b8b71809150.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rafale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>346</xmax>
+			<ymin>88</ymin>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

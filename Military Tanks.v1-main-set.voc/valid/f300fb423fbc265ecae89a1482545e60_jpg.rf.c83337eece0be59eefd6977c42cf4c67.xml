@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>f300fb423fbc265ecae89a1482545e60_jpg.rf.c83337eece0be59eefd6977c42cf4c67.jpg</filename>
+	<path>f300fb423fbc265ecae89a1482545e60_jpg.rf.c83337eece0be59eefd6977c42cf4c67.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tu95</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>100</xmin>
+			<xmax>316</xmax>
+			<ymin>174</ymin>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

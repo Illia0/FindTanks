@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>a1be9b1317303ef19eee25fdabe0ef2d_jpg.rf.8fa08a73ed046e94c5c7132742677022.jpg</filename>
+	<path>a1be9b1317303ef19eee25fdabe0ef2d_jpg.rf.8fa08a73ed046e94c5c7132742677022.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JAS39</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>194</xmin>
+			<xmax>320</xmax>
+			<ymin>168</ymin>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>
